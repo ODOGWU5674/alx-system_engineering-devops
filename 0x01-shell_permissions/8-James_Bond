@@ -1,4 +1,2 @@
 #!/bin/bash
-chmod u+0
-chmod g+0
-chmod g+rwx
+chmod 007 hello
